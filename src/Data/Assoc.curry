@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------
---- Library to deal with a single global assocation between strings.
+--- Library to deal with a single global association between strings.
 ---
 --- @author Michael Hanus
 ------------------------------------------------------------------------------

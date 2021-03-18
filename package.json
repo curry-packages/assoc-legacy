@@ -1,8 +1,8 @@
 {
   "name": "assoc-legacy",
-  "version": "3.0.0",
+  "version": "1.0.0",
   "author": "Michael Hanus <mh@informatik.uni-kiel.de>",
-  "synopsis": "Library to deal with a global assocation between strings.",
+  "synopsis": "Library to deal with a global association between strings",
   "category": [ "Data" ],
   "license": "BSD-3-Clause",
   "licenseFile": "LICENSE",
@@ -10,8 +10,8 @@
         "base": ">= 3.0.0, < 4.0.0"
   },
   "compilerCompatibility": {
-        "pakcs": ">= 3.0.0, < 4.0.0",
-        "kics2": ">= 3.0.0, < 4.0.0"
+        "pakcs": ">= 3.0.0",
+        "kics2": ">= 3.0.0"
   },
   "exportedModules": [ "Data.Assoc" ],
   "source": {
